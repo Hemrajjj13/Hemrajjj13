@@ -47,31 +47,23 @@
 ## 🚀 Projects
 
 ### **Rock-Paper-Scissors Game**
-- Interactive UI with emoji-based player choices  
-- Uses `localStorage` for persistent score  
-- Responsive layout  
-- Smooth animations and dynamic logic  
 
 🔗 **Live Demo:** https://rock-paper-scissors-livid-tau.vercel.app/  
 📦 **Repo:** https://github.com/Hemrajjj13/Rock-Paper-Scissors  
 
 ---
 
-### **To-Do List Application**
-- Fully functional CRUD-based task manager  
-- Tasks saved using browser `localStorage`  
-- Clean UI with mobile-friendly layout  
+### **To-Do List Application**  
 
 🔗 **Live Demo:** https://t0-do-list-kappa.vercel.app/  
+📦 **Repo:** https://github.com/Hemrajjj13/To-Do-List 
 
 ---
 
 ### **Amazon.com UI Clone**
-- Amazon-style homepage and product layout  
-- Dynamic JavaScript components  
-- Built with clean semantic HTML + CSS  
 
 🔗 **Live Demo:** https://javascript-amazon-project-69ej.vercel.app/  
+📦 **Repo:** https://github.com/Hemrajjj13/javascript-amazon-project
 
 ---
 
