@@ -1,27 +1,42 @@
 <h1 align="center">✨ Hemraj Suryawanshi ✨</h1>
-<h3 align="center"> Full-Stack Developer | Java </h3>
+<h3 align="center">Full-Stack Web Developer | Java & JavaScript</h3>
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Hemrajjj13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🌟 Passionate about building clean and interactive web applications.  
-- 📘 Currently learning advanced JavaScript, DOM, and Web Fundamentals.  
-- 🧱 Working on: **Amazon.com Clone**, **To-Do List App**, and **Mini JS Projects**.  
-- 🎯 Goal: Become a strong full-stack developer and master DSA.  
+## 🚀 About Me  
+- 🌟 Passionate about building clean, responsive, and user-friendly web applications  
+- 📘 Currently learning **Advanced JavaScript, DOM, and Web Fundamentals**  
+- 🔧 Strengthening backend fundamentals with **Core Java (OOP + DSA)**  
+- 🧱 Projects: **Amazon Clone**, **To-Do App**, **Rock-Paper-Scissors Game**  
+- 🎯 Goal: Become a strong **Full-Stack JavaScript Developer (MERN Stack)**  
 
 ---
 
-## 🎨 Tech Stack
+## 🛠️ Tech Stack
+
 ### **Frontend**
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
 
 ### **Backend / Core**
-- Java  
-- OOP & DSA
+- Core Java  
+- OOP Principles  
+- Data Structures & Algorithms  
 
-### **Tools**
+### **Currently Learning (MERN Path)**
+- React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+
+### **Tools & Platforms**
 - Git & GitHub  
 - VS Code  
 - Vercel / Netlify  
@@ -30,29 +45,49 @@
 ---
 
 ## 🚀 Projects
+
 ### **Rock-Paper-Scissors Game**
-- Interactive UI with clean components  
-- Emoji-based move buttons  
-- Score saving using `localStorage`  
-- Fully responsive design  
+- Interactive UI with emoji-based player choices  
+- Uses `localStorage` for persistent score  
+- Responsive layout  
+- Smooth animations and dynamic logic  
 
 🔗 **Live Demo:** https://rock-paper-scissors-livid-tau.vercel.app/  
 📦 **Repo:** https://github.com/Hemrajjj13/Rock-Paper-Scissors  
 
 ---
 
-## 📊 GitHub Stats
+### **To-Do List Application**
+- Fully functional CRUD-based task manager  
+- Tasks saved using browser `localStorage`  
+- Clean UI with mobile-friendly layout  
 
+🔗 **Live Demo:** https://t0-do-list-kappa.vercel.app/  
+
+---
+
+### **Amazon.com UI Clone**
+- Amazon-style homepage and product layout  
+- Dynamic JavaScript components  
+- Built with clean semantic HTML + CSS  
+
+🔗 **Live Demo:** https://javascript-amazon-project-69ej.vercel.app/  
+
+---
+
+## 🔥 GitHub Streak Contributions  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemrajjj13&show_icons=true&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemrajjj13&theme=react&hide_border=true" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me  
 - 📧 **Email:** hemrajdasu@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/hemrajsuryawanshi/  
 - 💻 **LeetCode:** https://leetcode.com/u/Hemrajjj13/  
+- 💬 **Discord:** https://discord.com/users/hemrajjj13 
+- 📸 **Instagram:** https://instagram.com/hemraj_96k  
 
 ---
 
@@ -61,5 +96,3 @@
 ✨ *Keep building. Keep improving. Your journey has just begun.* ✨  
 
 </div>
-
----
