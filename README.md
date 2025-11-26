@@ -67,13 +67,6 @@
 
 ---
 
-## 🔥 GitHub Streak Contributions  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemrajjj13&theme=react&hide_border=true" />
-</p>
-
----
-
 ## 🔗 Connect With Me  
 - 📧 **Email:** hemrajdasu@gmail.com  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/hemrajsuryawanshi/  
