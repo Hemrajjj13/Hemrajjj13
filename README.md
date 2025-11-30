@@ -23,7 +23,8 @@
 ### **Frontend**
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- React.JS
 
 ### **Backend / Core**
 - Core Java  
