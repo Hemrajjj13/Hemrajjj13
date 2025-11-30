@@ -1,12 +1,6 @@
 <h1 align="center">✨ Hemraj Suryawanshi ✨</h1>
 <h3 align="center">Full-Stack Web Developer | Java & JavaScript</h3>
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hemrajjj13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me  
@@ -18,34 +12,23 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)
-- React.JS
-
-### **Backend / Core**
-- Core Java  
-- OOP Principles  
-- Data Structures & Algorithms  
-
-### **Currently Learning (MERN Path)**
-- React.js  
-- Node.js  
-- Express.js  
-- MongoDB  
-
-### **Tools & Platforms**
-- Git & GitHub  
-- VS Code  
-- Vercel / Netlify  
-- Chrome DevTools  
+## 🔗 Connect With Me  
+- 📧 **Email:** hemrajdasu@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/hemrajsuryawanshi/  
+- 💻 **LeetCode:** https://leetcode.com/u/Hemrajjj13/  
+- 💬 **Discord:** https://discord.com/users/hemrajjj13 
+- 📸 **Instagram:** https://instagram.com/hemraj_96k  
 
 ---
 
 ## 🚀 Projects
+
+### **Personal Portfolio Website**
+
+🔗 **Live Demo:** https://portfolio-website-two-tau-54.vercel.app/  
+📦 **Repo:** https://github.com/Hemrajjj13/portfolio-website  
+
+---
 
 ### **Rock-Paper-Scissors Game**
 
@@ -68,12 +51,16 @@
 
 ---
 
-## 🔗 Connect With Me  
-- 📧 **Email:** hemrajdasu@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/hemrajsuryawanshi/  
-- 💻 **LeetCode:** https://leetcode.com/u/Hemrajjj13/  
-- 💬 **Discord:** https://discord.com/users/hemrajjj13 
-- 📸 **Instagram:** https://instagram.com/hemraj_96k  
+## 🛠️ Tech Stack
+
+**Frontend:**  
+🟨 JavaScript (ES6+) | 🎨 HTML5 | 🎨 CSS3 | ⚛️ React.js | 📱 Responsive UI  
+
+**Backend:**  
+☕ Core Java | 🧩 OOP | 🔢 DSA | 🟩 Node.js | 🚀 Express.js | 🍃 MongoDB  
+
+**Tools:**  
+🐙 Git & GitHub | 💻 VS Code | ▲ Vercel | 🌐 Netlify | 🛠️ Chrome DevTools
 
 ---
 
