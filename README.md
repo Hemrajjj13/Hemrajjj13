@@ -12,43 +12,6 @@
 
 ---
 
-## 🔗 Connect With Me  
-- 📧 **Email:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-- 🔗 **LinkedIn:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-- 💻 **LeetCode:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-- 💬 **Discord:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip 
-- 📸 **Instagram:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-
----
-
-## 🚀 Projects
-
-### **Personal Portfolio Website**
-
-🔗 **Live Demo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-📦 **Repo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-
----
-
-### **Rock-Paper-Scissors Game**
-
-🔗 **Live Demo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-📦 **Repo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-
----
-
-### **To-Do List Application**  
-
-🔗 **Live Demo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-📦 **Repo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip 
-
----
-
-### **https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip UI Clone**
-
-🔗 **Live Demo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip  
-📦 **Repo:** https://github.com/Hemrajjj13/Hemrajjj13/raw/refs/heads/main/catchpolery/Hemrajjj_v3.0.zip
-
 ---
 
 ## 🛠️ Tech Stack
