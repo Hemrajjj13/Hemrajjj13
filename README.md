@@ -15,7 +15,34 @@
 
 ---
 
+## 🚧 Working On
+
+### **Enterprise Analytics Dashboard** 🚧
+🛠️ **Tech Stack:** React, Redux Toolkit, React Query, TypeScript 
+**Repo:** [Source Code]([https://github.com/Hemrajjj13/Hemrajjj13](https://github.com/Hemrajjj13/enterprise-analytics-dashboard))
+
+- Built a **scalable, component-driven analytics dashboard** using modern React architecture  
+- Managed **complex UI and server state** with Redux Toolkit and React Query  
+- Improved performance using **memoization, code-splitting, and debounced search**  
+- Developed **reusable components, custom hooks, and fully responsive layouts**  
+- Added **unit tests** for critical components using **Jest & React Testing Library**
+
+---
+
+### **Job & Talent Management Platform** 🚧
+🛠️ **Tech Stack:** MongoDB, Express, React, Node.js (MERN)  
+**Repo:** [Source Code]([https://github.com/Hemrajjj13/Hemrajjj13](https://github.com/Hemrajjj13/job-portal))
+
+- Developing a **full-stack job platform** with **role-based access** for recruiters and candidates  
+- Designed **REST APIs** with **JWT authentication, pagination, and centralized error handling**  
+- Modeled **MongoDB schemas with indexing** to optimize query performance  
+- Built a **secure React frontend** with protected routes and token refresh handling  
+- Deployed frontend and backend with **environment-based configurations**
+
+---
+
 ## 🚀 Projects
+
 
 ### **Personal Portfolio Website**
 🔗 **Live Demo:** [View Live Site](https://portfolio-website-two-tau-54.vercel.app/) *(Update this if hosted elsewhere)* 📦 **Repo:** [Source Code](https://github.com/Hemrajjj13/Hemrajjj13)  
