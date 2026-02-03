@@ -19,20 +19,24 @@
 
 ### **Personal Portfolio Website**
 🔗 **Live Demo:** [View Live Site](https://portfolio-website-two-tau-54.vercel.app/) *(Update this if hosted elsewhere)* 📦 **Repo:** [Source Code](https://github.com/Hemrajjj13/Hemrajjj13)  
+🛠️ **Techonlogies:** HTML, CSS, JavaScript
 
 ---
 
 ### **Amazon UI Clone**
 📦 **Repo:** [Source Code](https://github.com/Hemrajjj13/javascript-amazon-project)  
+🛠️ **Techonlogies:** HTML, CSS, JavaScript
+---
+
+### **Github Open-source Oppotunity Finder**
+📦 **Repo:** [Source Code](https://github.com/Hemrajjj13/75-days-of-coding/tree/main/MERN/04-GitHub-open-source-opportunity-finder)  
+🛠️ **Techonlogies:** React, CSS Modules, GitHub Rest API
 
 ---
 
-### **Rock-Paper-Scissors Game**
-📦 **Repo:** [Source Code](https://github.com/Hemrajjj13/Rock-Paper-Scissors)  
-
----
-
-### **To-Do List Application** 📦 **Repo:** [Source Code](https://github.com/Hemrajjj13/To-Do-List) 
+### **Social Media Profiles**
+📦 **Repo:** [Source Code](https://github.com/Hemrajjj13/React-Learning/tree/main/04-social-cards-project)  
+🛠️ **Techonlogies:** React, CSS
 
 ---
 
