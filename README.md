@@ -52,7 +52,8 @@
 
 ### **Amazon UI Clone**
 📦 **Repo:** [Source Code](https://github.com/Hemrajjj13/javascript-amazon-project)  
-🛠️ **Techonlogies:** HTML, CSS, JavaScript
+🛠️ **Technologies:** HTML, CSS, JavaScript
+
 ---
 
 ### **Github Open-source Oppotunity Finder**
